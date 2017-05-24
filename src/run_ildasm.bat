@@ -1,0 +1,1 @@
+ildasm /out=".\il_code\CrackMe.il" ".\Sample\CrackMe.exe"
